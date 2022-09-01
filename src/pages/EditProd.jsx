@@ -83,7 +83,7 @@ export const EditProd = () => {
                 onChange={handleInputChange} />
             <TextField
                 id="standard-basic"
-                label="Product Image"
+                label="Product Image URL"
                 variant="standard"
                 type="text"
                 name="pimage"
