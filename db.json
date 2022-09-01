@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "pname": "T-Shirt",
+      "pimage": "https://5.imimg.com/data5/YJ/BO/MY-10973479/mens-designer-casual-shirt-500x500.jpg",
+      "quantity": "5",
+      "cost": "500",
+      "desc": "Styled t-shirts available",
+      "date": "2012-01-19"
+    },
+    {
+      "id": 2,
+      "pname": "Jeans",
+      "pimage": "https://cdn.shopify.com/s/files/1/0752/6435/products/REPPBLUEJEANS_29.jpg?v=1661151936",
+      "quantity": "5",
+      "cost": "700",
+      "desc": "Styled pants available",
+      "date": "2012-02-19"
+    },
+    {
+      "id": 3,
+      "pname": "Sweater",
+      "pimage": "https://st.depositphotos.com/1005901/1417/i/600/depositphotos_14175242-stock-photo-sweater-with-a-pattern-of.jpg",
+      "quantity": "5",
+      "cost": "1500",
+      "desc": "Winter-wears available",
+      "date": "2012-03-19"
+    },
+    {
+      "pname": "Denim Jeans Pants",
+      "quantity": "12",
+      "cost": "1222",
+      "desc": "High Quality",
+      "date": "2022-09-02",
+      "id": 4,
+      "pimage": "https://img.ltwebstatic.com/images3_pi/2020/03/23/158492711542c98375c44379c018ebebf0ba97e3c4.webp"
+    },
+    {
+      "pname": "Denim Jeans ",
+      "pimage": "https://martinvalen.com/2840-home_default/regular-blue-fade-denim-jeans.jpg",
+      "quantity": "1212",
+      "cost": "2111",
+      "desc": "Denim",
+      "date": "2022-09-01T21:32:58.188Z",
+      "id": 6
+    }
+  ]
+}
